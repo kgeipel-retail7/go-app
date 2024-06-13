@@ -1,4 +1,4 @@
-module github.com/maxence-charriere/go-app/v9
+module github.com/kgeipel-retail7/go-app/v9
 
 go 1.18
 
